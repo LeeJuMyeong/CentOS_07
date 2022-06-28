@@ -1,0 +1,182 @@
+<mxfile host="app.diagrams.net" modified="2022-06-27T06:57:28.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="a5_NdGZJhvKXtOCzuwMX" version="18.0.3" type="github">
+  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
+    <mxGraphModel dx="1245" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60e70716793133e9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="60e70716793133e9-4" target="DIcpOQR12IwtldSSSIbG-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60e70716793133e9-4" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;en&quot; class=&quot;Y2IQFc&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Execution&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1160" as="sourcePoint" />
+            <mxPoint x="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Server&lt;/font&gt;&lt;/b&gt;&lt;br&gt;(Python3.9)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Client&lt;/font&gt;&lt;/b&gt;&lt;br&gt;(DRL)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-6" target="DIcpOQR12IwtldSSSIbG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-6" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;en&quot; class=&quot;Y2IQFc&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Execution&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-7" target="DIcpOQR12IwtldSSSIbG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Socket&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-8" target="DIcpOQR12IwtldSSSIbG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Bind&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-11" target="DIcpOQR12IwtldSSSIbG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Listen&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-13" target="DIcpOQR12IwtldSSSIbG-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-13" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Accept&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-15" target="DIcpOQR12IwtldSSSIbG-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-15" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;en&quot; class=&quot;Y2IQFc&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;client_socket_open&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="485" y="300" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-17" target="DIcpOQR12IwtldSSSIbG-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-17" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Pack&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="485" y="360" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-23" value="client_socket_open" style="swimlane;fontSize=15;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="DIcpOQR12IwtldSSSIbG-23" source="DIcpOQR12IwtldSSSIbG-25" target="DIcpOQR12IwtldSSSIbG-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-25" value="Socket" style="whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=none;" vertex="1" parent="DIcpOQR12IwtldSSSIbG-23">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-26" value="Connect" style="whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=none;" vertex="1" parent="DIcpOQR12IwtldSSSIbG-23">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-11" target="DIcpOQR12IwtldSSSIbG-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-29" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Request/Response&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="360" y="279" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-37" target="DIcpOQR12IwtldSSSIbG-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-37" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;client_socket_write&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="485" y="420" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="DIcpOQR12IwtldSSSIbG-40" source="DIcpOQR12IwtldSSSIbG-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="645.0588235294117" as="sourcePoint" />
+            <mxPoint x="790" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-40" value="client_socket_write" style="swimlane;fontSize=15;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="380" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-42" value="Sendall" style="whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=none;" vertex="1" parent="DIcpOQR12IwtldSSSIbG-40">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-44" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Unpack&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="485" y="840" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-15" target="DIcpOQR12IwtldSSSIbG-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-50" target="DIcpOQR12IwtldSSSIbG-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-50" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Recv&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-52" target="DIcpOQR12IwtldSSSIbG-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Unpack&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-55" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-13" target="DIcpOQR12IwtldSSSIbG-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="398.82" as="sourcePoint" />
+            <mxPoint x="465" y="398.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-60" value="Data Transfer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="399" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-63" target="DIcpOQR12IwtldSSSIbG-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-63" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data check&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=classic;endFill=1;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-65" target="DIcpOQR12IwtldSSSIbG-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-65" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Pack&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-67" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Send&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-69" value="&lt;pre style=&quot;line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;client_socket_read&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="485" y="770" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-71" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-69" target="DIcpOQR12IwtldSSSIbG-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="650" as="sourcePoint" />
+            <mxPoint x="590" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-72" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-67" target="DIcpOQR12IwtldSSSIbG-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-73" value="Data Transfer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="749" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-75" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data check&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIcpOQR12IwtldSSSIbG-78" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIcpOQR12IwtldSSSIbG-44" target="DIcpOQR12IwtldSSSIbG-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="770" as="sourcePoint" />
+            <mxPoint x="550" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
